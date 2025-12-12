@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ToDoListapp</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>docs/screenshots/AddTasks.png</name>
+			<type>1</type>
+			<location>E:/Java (FSD)/Cognitics projects/ToDoListapp/docs/screenshots/AddTasks.png</location>
+		</link>
+		<link>
+			<name>docs/screenshots/DeleteTasks.png</name>
+			<type>1</type>
+			<location>E:/Java (FSD)/Cognitics projects/ToDoListapp/docs/screenshots/DeleteTasks.png</location>
+		</link>
+		<link>
+			<name>docs/screenshots/Menu.png</name>
+			<type>1</type>
+			<location>E:/Java (FSD)/Cognitics projects/ToDoListapp/docs/screenshots/Menu.png</location>
+		</link>
+		<link>
+			<name>docs/screenshots/UpdateTasks.png</name>
+			<type>1</type>
+			<location>E:/Java (FSD)/Cognitics projects/ToDoListapp/docs/screenshots/UpdateTasks.png</location>
+		</link>
+		<link>
+			<name>docs/screenshots/ViewTask.png</name>
+			<type>1</type>
+			<location>E:/Java (FSD)/Cognitics projects/ToDoListapp/docs/screenshots/ViewTask.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
